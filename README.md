@@ -14,7 +14,7 @@ Let's help 00yy in cutting a new bomb with maximum boom power.
 Specs:
 
 T as number of tests. \*Enters*\
-N as length. (0 <--> 10^5) \*Enters*\ 
+N as length. (0 <--> 10^5) \*Enters*\
 A[i]s. (0 <--> 10^9)
 
 Gives length of desired bomb.
